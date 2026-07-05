@@ -25,3 +25,6 @@ Use the run configurations provided by the run widget in your IDE's toolbar. You
 ---
 
 Learn more about [Kotlin Multiplatform](https://www.jetbrains.com/help/kotlin-multiplatform-dev/get-started.html)…
+
+https://github.com/user-attachments/assets/9280c5f9-b303-4b31-87f0-7265726cea34
+
